@@ -1,7 +1,7 @@
 # Heart-Attack-Prediction
 1. The aim of this project is to predict the risk of heart attack to a particular individual.
 2. The dataset is the past information of the patients about their health statues.
-3. This Dataset has 26 features and about 9000 samples. (You can get the dataset from this repository or you can download it from 
+3. This Dataset has 26 features and about 9000 samples. (You can get the dataset from this repository)
 4. Age, Sex, Blood Pressure, Alcohol Consumption, Smoking, etc.. are some of the features.
 
 
